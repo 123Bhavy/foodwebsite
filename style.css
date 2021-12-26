@@ -74,7 +74,7 @@ navbar::before{
 }
 #home::before{
     content:"" ;
-    background: url('../bg.jpg') no-repeat center center/cover;
+    background: url('bg.jpg') no-repeat center center/cover;
     position: absolute;
     height: 642px;
     width: 100%;
